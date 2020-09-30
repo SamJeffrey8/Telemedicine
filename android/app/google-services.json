@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "384701129692",
+    "firebase_url": "https://pharmacy-app-a5066.firebaseio.com",
+    "project_id": "pharmacy-app-a5066",
+    "storage_bucket": "pharmacy-app-a5066.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:384701129692:android:dbf812b7a3f986dfa56519",
+        "android_client_info": {
+          "package_name": "com.pharmacist.pharmacy_app1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "384701129692-ukmcv1sn4t25o3md0aca99j6b8esdpoe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmFnDcHSCiuE6Y3QMGMj4Xv--459dNFwM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "384701129692-ukmcv1sn4t25o3md0aca99j6b8esdpoe.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "384701129692-7anrqse98m7li9maoslk4a3qelfolihf.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.pharmacist.sm"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:384701129692:android:f401d07b3ec76a7ba56519",
+        "android_client_info": {
+          "package_name": "com.pharmacist.sm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "384701129692-ukmcv1sn4t25o3md0aca99j6b8esdpoe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmFnDcHSCiuE6Y3QMGMj4Xv--459dNFwM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "384701129692-ukmcv1sn4t25o3md0aca99j6b8esdpoe.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "384701129692-7anrqse98m7li9maoslk4a3qelfolihf.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.pharmacist.sm"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
